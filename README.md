@@ -1,0 +1,2 @@
+# mychart
+Helm simple chart
